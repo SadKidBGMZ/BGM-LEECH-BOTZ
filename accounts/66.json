@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "tamildub-leech-bot",
+  "private_key_id": "3d4fe8977dc8655a3ecc8fd6de7a39e52d87b06d",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDH6qBBhayPeBjA\n8bW31ZJdch4R9DSqJpDR19ldrspNvgYZ1/T+nm7cvs10rcc0F1Ckc6rxTcl/eSae\nZ9AN5FCODhDuI2KYfTrRiLSY8oa/s6T7sD1rWK1mXq5sd+MzxK0i8W5/kw4oDp0c\nJzvvOYoqn25BXJf9Uvk7JN9qk8oD0YIm0YVp6reUJM04drNzaL5mvIM+hejagYfp\nIkKvKKgCqObk1vluGp64ck7uqCVGUr1VBGKlTs+kMEYhjcgAUU+5d9GqHzaQKMOC\n0vWKp0zsdwIHp7iOKUgcZd4xOrBghSVzFqFDul9q1e/xCKYzgufzJJVCHenpwMuv\nGtWzdRQXAgMBAAECggEAAu9eEJ2H9d1DWRsor1Jqi9uqjFnuUgHZ8MgUpWGfumTL\n+Hd+syRGqBABuoZN8o+rEUGvefZ0kF4KI/DjPD5PXnPfaheekXLj461NoCHjZOTG\nyyPVwFc0yILNrcL+1MTnmSfmluc6THqWcjzd44+6iGX/JjotSGdTnbuCBNxhmWJk\nj0rXp2brfcBN/07Fgy06Mgj35zLUNK3rnXXiOuiBdjTHsXpvzYrCHRodG93NXsWI\n5mGJOTmBMET5nfi0G8iEx2NoKmMOtFyqrvp3xYuTPCVzulYrcux8MYnr/2zSv5cX\nJFZwdCAImBeFe8VconP1h18jDxcdR9OSK9w4xwIu6QKBgQDutd2SP0ibTATHqNge\nt4hAroXiZLIbm5wglWiivVReOAFHZC+tPQ/LBIJJhcYWKFOUxtfTQUPFLZYHmZQ8\nZgZpuVR1B25kEthv5TYueTPFtFgC2vIiabCyclnjK6lLJwTOmNaaaJdhTfrVo1l3\noua0S4rVyV2jqff8X+Z0Gvy8fwKBgQDWZXMOG3KlZLFcW3zWpLWwPydvRhlQl2sR\nYAJBJbz0D9s46N9c3uZ3rmDdo1pCDJg73hmCMgz4hQPnGSlfIPoWI5BvRUlXrVQg\nzYImGDt9twd7v/W4nhSwnofp0ADUurgmwg+R0GikxRFQ26CeI+Wva6Wx7jevDPX/\nTuwyQ2I8aQKBgEyaUhNHeZ5UY8hKt6gLz46qMs62760KX6zZJW3sAfIGWOq3DNG0\nIahNtx2u7yVXJZM9yC7D5+KTwWyI7VgAiZhN3/t6OgOlRI2L6bo6LNIKEKBB8Kf4\ncLqjFZNgBIDYcaN2yo9cdw/DvXXnaKOKxCwhfdkjOIh319vGTqb9rhMzAoGBANH4\nWU4fo5BHpUwGbaTpeuc5cq2PwYskQD+r/4k+JGgCf3ik2NxjkOL1bPij2umE3DMF\nuYXA7uMVolTaV6JK8aJtAi93c/TiU9osaqJUaS8d6b5QqZ49c5XmLMXYaHfuxhtv\nQ0BTE6kLN4IxFoTKM1Ax5Pz1iKNv1hxMdxZi1/rBAoGBAIbH6D6Jw8RArtmrlwcn\nTKn9OvNFJTsjmdeXBjM6CwGOzeWwdGntboCiRtM60qJE2GkFjRRtYhbvajCluqUb\nK88F5vLUySBuPZykPFaUWG+2d8IXBdAxC93QJRPrWc5WqjaO2wtRKl9vd6sDMiil\nuDD7BvBXUE1ASIoW84aQ7vsL\n-----END PRIVATE KEY-----\n",
+  "client_email": "mfc-8tf00pb69az8hhmxay6j3blb2n@tamildub-leech-bot.iam.gserviceaccount.com",
+  "client_id": "109566971551170247248",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/mfc-8tf00pb69az8hhmxay6j3blb2n%40tamildub-leech-bot.iam.gserviceaccount.com"
+}
